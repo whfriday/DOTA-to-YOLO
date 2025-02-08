@@ -52,8 +52,8 @@ def process_file(input_file, output_file, image_width, image_height):
 # Параметры
 input_file = r"<путь к фалу в формате DOTA>"
 output_file = r"<путь к файлу в формате YOLO>"
-image_width = 2832  #длина изображения(в пикселях)
-image_height = 3205     #высота изображения(в пикселях)
+image_width = 1804  #длина изображения(в пикселях)
+image_height = 1465     #высота изображения(в пикселях)
 
 # Обработка файла
 process_file(input_file, output_file, image_width, image_height)
